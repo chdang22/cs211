@@ -1,0 +1,11 @@
+In your own words, describe the pros and cons of using binary search trees to organize data.  
+
+The pros are the time complexity  of insert, delete, and search is logarithmic. That is very inportant when there are a lot of nodes.
+
+Traversal is always the straightforward and predictable because of the ordering of nodes.
+
+We can look at the BST as an array, so finding the smallest and largest element is easy.
+
+The disadvantage is that the tree can be linear and it can be hard to implement a balanced tree.
+
+*Something I noticed during the cap 31 runs is that the comparisons for unsorted is so high.
